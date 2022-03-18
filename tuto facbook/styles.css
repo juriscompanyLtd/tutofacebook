@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(#fff, #d3d8e8);
+    width: 400px;
+    height: 640px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.header{
+    background-color: rgb(59, 89, 152);
+    height: 12.2%;
+    width: 341%;
+    font-family: Tahoma;
+    border: 1px solid darkblue;  
+}
+
+.fb{
+    font-size: 38px;
+    position: absolute;
+    left: 180px;
+    color: #fff;
+    top:  3.5%;
+    font-weight: bold;
+}
+
+.connexion{
+    float: right;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 12px;
+    margin-right: 200px;
+}
+.btn{
+    background-color: #4267b2;
+    height: 22px;
+    color: #fff;
+    border: 1px solid darkblue;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.mdpo{
+color: #9cb4d8;
+text-decoration: none;
+position: relative;
+}
+
+.left{
+    width: 55%;
+    position: absolute;
+    left: 0;
+}
+
+.infog{
+    color: rgb(14, 56, 95);
+    font-size: 20px;
+    font-weight: 700;
+    width: 500px;
+    word-spacing: -1;
+    display: block;
+    position: relative;
+    left: 180px;
+    margin-top: 50px;
+}
+
+.image{
+    position: relative;
+    left: 180px;
+}
